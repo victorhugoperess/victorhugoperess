@@ -1,7 +1,7 @@
 <h1 align="center">Seja bem-vindo, prazer, Victor Hugo 👋</h1>
 
 <p align="center">🎯 Em busca de uma oportunidade de estágio na área de tecnologia</p>
-<p align="center">📚 Estudante de Sistemas de Informação - 6º período</p>
+<p align="center">📚 Estudante de Sistemas de Informação - 7º período</p>
 <p align="center">🚀 Sempre em evolução e aprendendo algo novo</p>
 
 ---
